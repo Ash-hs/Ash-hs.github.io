@@ -1,8 +1,8 @@
 ---
-title: 随笔
+title: 诚
 author: Ash
-pubDatetime: 2023-12-13T05:17:19Z
-postSlug: hello
+pubDatetime: 2023-12-13T13:30:00Z
+postSlug: marriage
 featured: false
 draft: false
 tags:
@@ -24,7 +24,7 @@ description: 关于结婚....
 - 我有什么？
 - 我想要什么
 - 对方想要什么？
-- 我能做到什么什么程度？
+- 我能做到什么程度？
 
 **综合考虑下来，不是我不想结婚，而是大部分女生想要的我给不了，而我想要的好像也很难遇到...**
 

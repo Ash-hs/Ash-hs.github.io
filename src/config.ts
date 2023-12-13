@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://ash-hs.github.io/", // replace this with your deployed domain
   author: "Ash",
   desc: "感觉应该写点什么，来记录一下...",
-  title: "我的思考",
+  title: "只是活着",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
