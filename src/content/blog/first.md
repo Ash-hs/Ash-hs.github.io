@@ -6,7 +6,7 @@ postSlug: marriage
 featured: false
 draft: false
 tags:
-  - life
+  - 生活
 ogImage: ""
 description: 关于结婚....
 ---
