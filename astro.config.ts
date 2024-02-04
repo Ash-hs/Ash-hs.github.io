@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, passthroughImageService } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
@@ -10,6 +10,9 @@ import { SITE } from "./src/config";
 export default defineConfig({
   site: SITE.website,
   base: '/',
+  image: {
+    service: passthroughImageService(),
+  },
   integrations: [
     tailwind({
       applyBaseStyles: false,
